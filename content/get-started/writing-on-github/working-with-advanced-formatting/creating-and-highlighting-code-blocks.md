@@ -1,4 +1,4 @@
----
+open backround settings
 title: Creating and highlighting code blocks
 intro: Share samples of code with fenced code blocks and enabling syntax highlighting.
 redirect_from:
@@ -11,7 +11,7 @@ versions:
   ghec: '*'
 shortTitle: Create code blocks
 ---
-
+fpt/block
 ## Fenced code blocks
 
 You can create fenced code blocks by placing triple backticks <code>\`\`\`</code> before and after the code block. We recommend placing a blank line before and after code blocks to make the raw formatting easier to read.
